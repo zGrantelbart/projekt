@@ -1,7 +1,5 @@
 # Ping Pong Spiel in Python
 
-![Ein Screenshot des Ping Pong Spiels](https://i.imgur.com/8Q9Y7X5.png)
-
 Dies ist ein klassisches Ping-Pong-Spiel, das mit Python und der Pygame-Bibliothek entwickelt wurde. Es war ein Lernprojekt, um grundlegende Konzepte der Spieleentwicklung, eine einfache KI und die Anbindung an eine Datenbank zu erlernen.
 
 ---
@@ -68,7 +66,7 @@ Um das Spiel lokal auszuführen, befolge diese Schritte:
 1.  **Klone das Repository:**
 
     ```bash
-    git clone [https://github.com/DEIN-BENUTZERNAME/DEIN-REPOSITORY-NAME.git](https://github.com/DEIN-BENUTZERNAME/DEIN-REPOSITORY-NAME.git)
+    git clone [https://github.com/zGrantelbart/projekt.git](https://github.com/zGrantelbart/projekt.git)
     cd DEIN-REPOSITORY-NAME
     ```
 
